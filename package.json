@@ -1,0 +1,30 @@
+{
+    "name": "kgm-site",
+    "version": "1.0",
+    "description": "None",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && no exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/1ethansempa/kgm1.git"
+    },
+    "keywords": [
+        "JavaScript",
+        "Heroku"
+    ],
+    "author": "Ethan Sempa",
+    "license": "UNLICENSED",
+    "bugs": {
+        "url": "https://github.com/1ethansempa/kgm1/issues"
+    },
+    "homepage": "https://github.com/1ethansempa/kgm1",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "engines": {
+        "node": "10.16.3"
+    }
+}
